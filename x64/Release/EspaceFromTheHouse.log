@@ -1,0 +1,9 @@
+﻿  EspaceFromTheHouse.cpp
+  Game.cpp
+l:\school\cppexam\espacefromthehouse\game.cpp(12): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+l:\school\cppexam\espacefromthehouse\game.cpp(324): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  RandomNumber.cpp
+  Generating code
+  All 142 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  EspaceFromTheHouse.vcxproj -> L:\school\CPPexam\EspaceFromTheHouse\x64\Release\EspaceFromTheHouse.exe

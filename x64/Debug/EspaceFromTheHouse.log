@@ -1,0 +1,4 @@
+﻿  Game.cpp
+l:\school\cppexam\espacefromthehouse\game.cpp(64): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+l:\school\cppexam\espacefromthehouse\game.cpp(305): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  EspaceFromTheHouse.vcxproj -> L:\school\CPPexam\EspaceFromTheHouse\x64\Debug\EspaceFromTheHouse.exe
